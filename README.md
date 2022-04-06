@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Godwin
 - 👀 I’m interested in JavaScript and React
-- 🌱 I’m currently learning React
+- 🌱 I’m a software developer currently working with ReactJS
 
 <!---
 giyogun/giyogun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
